@@ -178,7 +178,7 @@ void main()
 	cleardevice();
 	clearmouse();
 	initializeGame();
-	//setGridValue(0, 0, randNumGenerator());
+	//setGridValue(0, 0, randNumGenerator()); //return memory add
 	/*You can change code from this point*/
 	while (TRUE){
 		startGame();
